@@ -18,6 +18,7 @@
   - [FIT9132](courses/Database.md)
   - [FIT9136](courses/Python.md)
   - [FIT9137](courses/ComputerArchitectureAndNetworks.md)
+  - [FIT5215](courses/DeepLearning.md)
 
 - Books
   - [How to Read a Book](books/HowToReadABook.md)
